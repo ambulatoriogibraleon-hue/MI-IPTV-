@@ -3,8 +3,8 @@
 https://A.iglesias@ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:0, Laliga Pirata II
 https://A.iglesias@edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w342334170_b1460000_sleng.m3u8
-#EXTINF:0, ESPN3 HD
-http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:0, Evento
+https://paco@tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:11, GOLDEN
 http://24.152.42.29:8000/play/a00z/index.m3u8?hls
 #EXTINF:11,00  DIRECTV SPORTS
